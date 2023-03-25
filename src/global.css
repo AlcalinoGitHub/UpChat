@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(32, 31, 31);
+    color: rgb(240,240,240);
+    display: grid;
+    justify-content: center;
+    zoom: 1.8
+}
